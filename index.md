@@ -11,15 +11,17 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+# Hello
+## Tester
+### Coding
 
-- Bulleted
-- List
+- Flour
+- Eggs
+- Sugar
 
-1. Numbered
-2. List
+1. Add the dry ingredients 
+2. Mix
+3. Add the wet ingredients
 
 **Bold** and _Italic_ and `Code` text
 
